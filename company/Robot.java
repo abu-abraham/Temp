@@ -6,7 +6,7 @@ public class Robot {
     private int y;
     private int maxX;
     private int maxY;
-    // Directions is represented in an int array with values equivalent to coordinates Y+1,X+1,Y-1,X-1
+    // Coordinates are represented in an int array with values equivalent to coordinates Y+1,X+1,Y-1,X-1
     private int[] coordinates = new int[]{ 1,1,-1,-1};
     private int orientation;
     private String orientationSequence = "NESW";
