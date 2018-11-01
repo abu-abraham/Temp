@@ -2,21 +2,17 @@
 
 ##### Test Input  
 
-5 5 
-$$
-1 2 N
-$$
-LMLMLMLMM
-$$
-3 3 E
-$$
-MMRMMRMRRM
+5 5 <br />
+1 2 N <br />
+LMLMLMLMM <br />
+3 3 E <br />
+MMRMMRMRRM <br />
 
 [Empty line ends the input]
 
 ##### Expected Output 
 
-1 3 N
+1 3 N <br />
 5 1 E
 
 #### Key decisions 
